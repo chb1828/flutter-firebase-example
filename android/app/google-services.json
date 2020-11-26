@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155054223499",
+    "firebase_url": "https://ninja-brew-crew-2a225.firebaseio.com",
+    "project_id": "ninja-brew-crew-2a225",
+    "storage_bucket": "ninja-brew-crew-2a225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155054223499:android:2c90ad57af120e2ef5a48e",
+        "android_client_info": {
+          "package_name": "com.chb.flutter_and_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155054223499-eckv7ctg6vnculf0l05hcle61k6ua078.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0kcQ-6kZ7qKEeCWACP950wQ1Xz72MezM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155054223499-eckv7ctg6vnculf0l05hcle61k6ua078.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
